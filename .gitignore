@@ -4,3 +4,4 @@ __pycache__
 .vs/
 data.db
 /kansen-venv
+data.db
